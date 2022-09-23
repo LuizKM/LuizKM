@@ -23,7 +23,7 @@
 
 - 🤔 Atualmente procurando aprender o máximo possível na área de tecnologia
 
-- 📫 Encontre-me no e-mail? luizkaeme@gmail.com
+- 📫 Encontre-me no e-mail: luizkaeme@gmail.com
 
 ##
 
