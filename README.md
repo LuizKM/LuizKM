@@ -12,11 +12,17 @@
   <img align="right" alt="Iron-Gif" height="150" style="border-radius:50px;" src="http://1.bp.blogspot.com/-0UkFPYRnh-E/U1-ljpNoxvI/AAAAAAAAC3c/rYXkJTweYfE/s1600/ir+7.gif?width=676&height=676">
 
 - ⚡ Sim, um farmacêutico na área de TI kkk
+
 - 🎼 Viciado em Heavy Metal (Iron Maiden especialmente)
+
 - 🎮 Gamer desde moleque
+
 - 🔭 Hoje trabalho na dispensação farmacêutica
+
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
+
 - 🤔 Atualmente procurando aprender o máximo possível na área de tecnologia
+
 - 📫 Encontre-me no e-mail? luizkaeme@gmail.com
 
 ##
