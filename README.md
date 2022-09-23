@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/luiz-kummer-45b1076a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <img align="left" alt="Iron-Gif" height="150" style="border-radius:50px;" src="http://1.bp.blogspot.com/-0UkFPYRnh-E/U1-ljpNoxvI/AAAAAAAAC3c/rYXkJTweYfE/s1600/ir+7.gif?width=676&height=676">
      
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LuizKM/LuizKM/blob/output/github-contribution-grid-snake.svg)
      
 </div>
   
