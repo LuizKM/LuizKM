@@ -1,9 +1,13 @@
+##
+
 <div align="center">
   <a href="https://github.com/LuizKM">
   <img height="42%" src="https://github-readme-stats.vercel.app/api?username=LuizKM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizKM&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+  
+##
+  
 ### Olá! Meu eu sou o Luiz Kummer, vulgo kM ou Kaeme 🤘
   <img align="right" alt="Iron-Gif" height="150" style="border-radius:50px;" src="http://1.bp.blogspot.com/-0UkFPYRnh-E/U1-ljpNoxvI/AAAAAAAAC3c/rYXkJTweYfE/s1600/ir+7.gif?width=676&height=676">
 
@@ -27,6 +31,8 @@
    
      
   ![Snake animation](https://github.com/LuizKM/LuizKM/blob/output/github-contribution-grid-snake.svg)
+
+##
   
 </div>
   
