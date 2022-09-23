@@ -17,7 +17,7 @@
 
 - 🎮 Gamer desde moleque
 
-- 🔭 Hoje trabalho na dispensação farmacêutica
+- 🔭 Hoje trabalho na dispensação farmacêutica, na PanVel Farmácias
 
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 
