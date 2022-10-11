@@ -54,9 +54,7 @@
 ##
 
  ### Commits
-    
   ![Snake animation](https://github.com/LuizKM/LuizKM/blob/output/github-contribution-grid-snake.svg)
-
 ##
   
 </div>
