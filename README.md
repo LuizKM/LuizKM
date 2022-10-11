@@ -37,7 +37,8 @@
  	<a href="https://www.twitch.tv/kmmrzera" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/95xk7Azh" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a></a>
    <a href="https://discord.gg/ryaURKy5" target="_blank"><img src="https://i.imgur.com/JWKyzk0.png" target="_blank"></a></a>
-</div>
+   <a href="https://luizkm.github.io/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+   </div>
 
 ##
 
