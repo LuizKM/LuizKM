@@ -4,8 +4,6 @@
   ### Olá, Mundo!<br>
   ### Me chamo Luiz Kummer, mas pode me chamar de kM 🤘
   <br>
-  <img align="right" alt="Iron-Gif" height="150" style="border-radius:50px;" src="gifs/eddie.gif">
-  <img align="left" alt="Iron-Gif" height="150" style="border-radius:50px;" src="gifs/eddie.gif">
     
   🥼 Sim, um Farmacêutico na área de TI 
   
