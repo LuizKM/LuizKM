@@ -20,7 +20,7 @@
   🌱 Estudando Análise e Desenvolvimento de Sistemas  
   
   
-  💻 Atualmente procurando aprender o máximo possível na área de tecnologia
+  💻 Atualmente procurando aprender o máximo possível na área de tecnologia e, claro, um estágio!
 
   
 </div>
